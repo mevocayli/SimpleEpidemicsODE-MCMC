@@ -1,4 +1,4 @@
-### SimpleEpidemicsODE-MCMC
+# SimpleEpidemicsODE-MCMC
 
 
 ## Summary
